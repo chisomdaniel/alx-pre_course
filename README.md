@@ -1,4 +1,4 @@
-#My First Pushed epository
+#My First Pushed repository
 
 My first readme
 
